@@ -23,3 +23,6 @@ tmux sessions.
 
     osascript ~/Library/Application\ Support/iTerm/Scripts/Toggle\ Solarized.scpt
 
+## Resources
+- [Solarized Homepage](http://ethanschoonover.com/solarized)
+- [iTerm2 Color Presets](https://github.com/altercation/solarized/tree/master/iterm2-colors-solarized)
